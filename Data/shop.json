@@ -1,18 +1,37 @@
 [
   {
-    "name": "Laptop",
-    "price": 500
-  },
-  {
     "name": "Fishing Rod",
-    "price": 250
+    "price": 100,
+    "description": "Useful for fishing."
   },
   {
     "name": "Pickaxe",
-    "price": 300
+    "price": 200,
+    "description": "Useful for mining."
   },
   {
-    "name": "Bag",
-    "price": 150
+    "name": "Axe",
+    "price": 150,
+    "description": "Useful for chopping wood."
+  },
+  {
+    "name": "Shovel",
+    "price": 120,
+    "description": "Useful for digging."
+  },
+  {
+    "name": "Hammer",
+    "price": 180,
+    "description": "Useful for building."
+  },
+  {
+    "name": "Sword",
+    "price": 300,
+    "description": "Useful for combat."
+  },
+  {
+    "name": "Bow",
+    "price": 250,
+    "description": "Useful for ranged combat."
   }
 ]
